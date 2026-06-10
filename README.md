@@ -1,2 +1,2 @@
 # genz_ecommerce
-html,css,javascript
+its a genz fashionstore website 
